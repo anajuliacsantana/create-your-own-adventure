@@ -4,6 +4,6 @@ Sua TARDIS etá fazendo jus ao seu nome, e não possui nenhuma lógica no modo d
 
 Você decide:
 
-[Aceitar sue destino e aproveitar suas viagens apenas para o passado. É uma nova aentura afinal](aceitar/aceitar.md)
+[Aceitar seu destino e aproveitar suas viagens apenas para o passado. É uma nova aentura afinal](aceitar/aceitar.md)
 
 [Tentar progrmar a função futuro](consertar/consertar.md)
